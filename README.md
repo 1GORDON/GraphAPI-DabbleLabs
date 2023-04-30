@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 OOP School Library <a name="about-project"></a>
+# 📖 GraphAPI-DabbleLabs <a name="about-project"></a>
 
-**OOP School Library: decorate a class ** In this project, I use the Decorator design pattern to correct the names of people.
+\*\*GraphAPI-DabbleLabs: This project is built to perform CRUD operations of Create, Read, Update, and Delete operations. It is built with Apollo-Server, GraphQL, and MongoDB.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -80,15 +80,13 @@ Example command:
 
 ### Setup
 
-- Clone this repository to your desired folder: https://github.com/lugard1/oop-school-library.git
-- Run bundle install to install the dependencies.
+- Clone this repository to your desired folder: https://github.com/1GORDON/GraphAPI-DabbleLabs.git
 
 ### Install
 
 Install this project with:
 
-- cd oop-school-library
-- ubuntu version 22 or higher
+- cd GraphAPI-DabbleLabs
 
 ### Usage
 
@@ -189,6 +187,6 @@ I would like to appreciate [Microverse](https://www.microverse.org/) for providi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/lugard1/oop-school-library/blob/classes/MIT.md) licensed.
+This project is [MIT](https://github.com/1GORDON/GraphAPI-DabbleLabs/blob/classes/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
